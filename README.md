@@ -45,5 +45,3 @@ I used many built-in libraries like- shutil for file movement,datetime for get t
 
 future improvement:
 We can design the ui for the program so a normal user can easily interact with it. We can add more features like deleting the junk files after a certain period of time.
-
-Note: if the use not provide the argument then program will perform the operation on the current directory.
