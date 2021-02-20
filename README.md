@@ -43,5 +43,6 @@ by using this option user can organize their files by last used date. random fol
 what i used :
 I used many built-in libraries like- shutil for file movement,datetime for get the date of the files,argparse for the command line parsing and etc.
 
-future improvement:
+
+Future improvement:
 We can design the ui for the program so a normal user can easily interact with it. We can add more features like deleting the junk files after a certain period of time.
