@@ -41,7 +41,7 @@ by using this option user can organize their files by their file size, according
 by using this option user can organize their files by last used date. random folders will be created according to file's last used date and files will be moved to them.
 
 what i used :
-I used many built-in libraries like- shutil for file movement,datetime for get the date of the files,argparse for the command line parsing and etc.
+I used many built-in libraries like- shutil for file movement,datetime for get the date of the files,time module etc.
 
 
 Future improvement:
